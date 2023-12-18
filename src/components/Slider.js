@@ -18,7 +18,7 @@ function Slider() {
             </div>
         </div>
         <div className='left'>
-            <img className='img2' src='./images/image2.jpg'></img>
+            <img className='img2' src='./images/image5.jpg'></img>
              <h6>Ram Mohan</h6>
              <h6>rammohan@gmail.com</h6>
         </div>
